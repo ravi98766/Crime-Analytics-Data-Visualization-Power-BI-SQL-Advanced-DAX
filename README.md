@@ -1,6 +1,6 @@
-                                                    **Crime Analytics & Data Visualization | Power BI • SQL • Advanced DAX**
+# Crime Analytics & Data Visualization | Power BI • SQL • Advanced DAX
 
-**Dashboard 1: Crime Analysis Overview Dashboard**
+# Dashboard 1: Crime Analysis Overview Dashboard**
 <img width="847" height="505" alt="dashboard 1" src="https://github.com/user-attachments/assets/769d84da-a41b-463f-a12b-370abd177187" />
 
 I developed an interactive Crime Analysis Overview dashboard using Power BI, focused on identifying crime trends, high-risk periods, and temporal patterns across multiple dimensions.
@@ -29,7 +29,7 @@ This dashboard provides:
 
 This dashboard is designed as a high-level decision support view, allowing stakeholders to quickly understand where, when, and how crime activity fluctuates.
 
-**Dashboard 2: Crime Time Group Drill-Through & Behavioral Analysis**
+# Dashboard 2: Crime Time Group Drill-Through & Behavioral Analysis
 <img width="839" height="504" alt="dashboard 2" src="https://github.com/user-attachments/assets/fc2a67b1-f811-48e3-bcce-23eeeadc91ab" />
 
 I built a deep-dive drill-through dashboard to support granular crime analysis by weekday and time group, enabling focused investigation into high-risk hours and offense behavior patterns.
@@ -59,6 +59,7 @@ This dashboard enables:
 This dashboard acts as an analytical investigation layer, complementing the overview dashboard by enabling root-cause analysis and time-based risk evaluation.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# DAX AND MEASURES 
 ```
 (Value) Highlight MinMax = 
 VAR _Table =
